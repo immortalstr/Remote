@@ -14,3 +14,11 @@
 ```
 git remote add <имя репозитория> <адресс репозитория>` 
 ```
+
+```C#
+int count = 0;
+while(count <= n)
+{
+count += 1
+}
+```
